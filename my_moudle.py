@@ -5,4 +5,7 @@ def Sun(a,b):
 	return a-b
 
 def Mul(a,b):
-	returb a*b
+	return a*b
+
+def Div(a,b):
+	return a/b
